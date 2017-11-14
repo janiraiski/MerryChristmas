@@ -18,7 +18,7 @@
         android:layout_alignParentBottom="true"
         android:fontFamily="@font/miss_fajardose"
         android:padding="10dp"
-        android:text="Merry Christmas!"
+        android:text="@string/merry_christmas"
         android:textAlignment="center"
         android:textColor="#FFE0B2"
         android:textSize="70sp" />
